@@ -1,0 +1,9 @@
+carrepair\LogRepository.class
+carrepair\AbstractEvent.class
+carrepair\AcceptCanceled.class
+carrepair\AcceptPlaced.class
+carrepair\Log.class
+carrepair\config\kafka\KafkaProcessor.class
+carrepair\PolicyHandler.class
+carrepair\Application.class
+carrepair\LogViewHandler.class
